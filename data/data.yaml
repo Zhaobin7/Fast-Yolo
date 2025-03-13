@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['excess_solder', 'missing_hole', 'mouse_bite', 'open_circuit', 'scratch', 'short', 'spur', 'spurious_copper']
+
+roboflow:
+  workspace: dataset-8tmiu
+  project: green_dataset-0zndq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dataset-8tmiu/green_dataset-0zndq/dataset/1

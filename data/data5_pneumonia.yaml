@@ -1,0 +1,7 @@
+train: /data_jiang/zb/Simon/mul_yolov11_detect/ultralytics-yolo11-main-20250216/images_pneumonia-detection/train/images
+val: /data_jiang/zb/Simon/mul_yolov11_detect/ultralytics-yolo11-main-20250216/images_pneumonia-detection/valid/images
+test: /data_jiang/zb/Simon/mul_yolov11_detect/ultralytics-yolo11-main-20250216/images_pneumonia-detection/test/images
+
+nc: 5
+names: ['Pneumonia Bacteria', 'Pneumonia Virus', 'Sick', 'healthy', 'tuberculosis']
+
