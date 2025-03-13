@@ -110,8 +110,6 @@ The **Fast-YOLO** model demonstrates superior performance in various metrics:
 
 Compared to other models like **YOLOv5**, **YOLOv7**, **RTMDet-L**, and **D-FINE-L**, Fast-YOLO achieves faster inference times and higher accuracy.
 
-### Example:
-![Pneumonia Detection](example_output.png)
 
 ## License
 
